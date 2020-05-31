@@ -1,0 +1,1 @@
+This branch is used to generate custom firmware for the ArduPlane 3.8.0 firmware.
